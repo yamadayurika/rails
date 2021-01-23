@@ -1,0 +1,14 @@
+#result {
+  width: 210px;
+  height: 30px;
+  background-color: black;
+  color: white;
+}
+
+input {
+  width: 50px;
+}
+
+input.longkey {
+  width: 105px;
+}
