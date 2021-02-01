@@ -35,7 +35,15 @@
     "run": {
         "configs": {
             "@inited": "true",
-            "json()": {}
+            "json()": {
+                "put": {
+                    "command": "memoapp/memo.rb",
+                    "env": {},
+                    "name": "put",
+                    "runner": "Ruby",
+                    "toolbar": true
+                }
+            }
         }
     },
     "welcome": {
